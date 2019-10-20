@@ -1,5 +1,5 @@
 # PythonCodes
-[Мой вк](http://vk.com/anton_tro) | [Мой инстаграм](https://www.instagram.com/anton.troshin_/) | [Подобие сайта]()
+[Мой вк](http://vk.com/anton_tro) | [Мой инстаграм](https://www.instagram.com/anton.troshin_/) | [Подобие сайта](https://vk.com/page-107934566_56603551)
 ## 1. Easy_decompose_number
 1. Вводите число, которое нужно разложить на простые множители.
 2. Производится вывод тех самых вышеупомянутых множителей.
